@@ -1,0 +1,1 @@
+<init-param> <param-name>useFileMappedBuffer</param-name> <param-value>false</param-value> <!-- change to false --> </init-param> 
